@@ -24,6 +24,7 @@
 #mymenu ul li a{
     margin-left:25px;
     font-size:var(--font-size-p);
+    border: 1px solid transparent;
 }
 #mymenu{
     padding: 0px 10%;
